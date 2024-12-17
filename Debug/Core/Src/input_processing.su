@@ -1,0 +1,5 @@
+../Core/Src/input_processing.c:19:5:IsNormalMode	4	static
+../Core/Src/input_processing.c:25:5:IsModifyRedLeds	4	static
+../Core/Src/input_processing.c:31:5:IsModifyAmberLeds	4	static
+../Core/Src/input_processing.c:37:5:IsModifyGreenLeds	4	static
+../Core/Src/input_processing.c:45:6:fsm_setting	8	static

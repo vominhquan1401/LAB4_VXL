@@ -1,0 +1,13 @@
+../Core/Src/display.c:17:6:InitCount	4	static
+../Core/Src/display.c:23:6:displayBlinkRedLed	8	static
+../Core/Src/display.c:31:6:displayRedLed	8	static
+../Core/Src/display.c:42:6:displayBlinkAmberLed	8	static
+../Core/Src/display.c:51:6:displayAmberLed	8	static
+../Core/Src/display.c:62:6:displayBlinkGreenLed	8	static
+../Core/Src/display.c:71:6:displayGreenLed	8	static
+../Core/Src/display.c:81:6:ChangeTime	24	static
+../Core/Src/display.c:86:6:IncreaseTime	8	static
+../Core/Src/display.c:98:6:BlinkTraffic	8	static
+../Core/Src/display.c:104:6:fsm_manual	8	static
+../Core/Src/display.c:113:6:displayLED7SEG_RIGHT	56	static
+../Core/Src/display.c:259:6:displayLED7SEG_ABOVE	56	static
